@@ -14,7 +14,7 @@ $v = 8;
 if (!is_dir("Theme/".$settings["interface"]["theme"])) {
     $settings["interface"]["theme"] = "basic";
 }
-if (!in_array($settings["interface"]["themecolor"], ["blue", "sun", "standard"])) {
+if (!in_array($settings["interface"]["themecolor"], ["blue", "sun", "standard", "dark"])) {
     $settings["interface"]["themecolor"] = "standard";
 }
 ?>
