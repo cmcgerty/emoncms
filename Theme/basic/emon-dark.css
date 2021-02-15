@@ -107,6 +107,10 @@ input::placeholder {
     color: #333 !important;
 }
 
+#tooltip {
+    color: #333 !important;
+}
+
 code {
     color: #ccc !important;
     background-color: #000 !important;
