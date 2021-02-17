@@ -287,6 +287,32 @@ dt:hover + dd{
     text-shadow: none;
 }
 
+#device-sidebar {
+    background-color: #000;
+}
+
+.modal-sidebar .category-heading {
+    background-color: #000 !important;
+}
+
+.modal-sidebar .group-heading {
+    background-color: #222 !important;
+}
+
+.modal-sidebar .group-device {
+    background-color: #444 !important;
+}
+
+.modal-header .close {
+    color: #fff;
+    text-shadow: none;
+    opacity: 1;
+}
+
+.close:hover, .close:focus {
+    color: #fff;
+}
+
 /* END DARK MODE OVERRIDES */
 
 html, body {
