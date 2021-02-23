@@ -317,7 +317,7 @@ dt:hover + dd{
 
 html, body {
     height: 100%;
-    background-color: #000 !important;
+    background-color: #111 !important;
     color: #ccc !important;
 }
 
@@ -342,7 +342,7 @@ html, body {
 }
 
 #footer {
-    background-color: #000;
+    background-color: #111;
     text-align: center;
     font-size: 13px;
     font-weight: bold;
